@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MHenderson/dhlawrencer.svg?branch=master)](https://travis-ci.org/MHenderson/dhlawrencer)
+
 # dhlawrencer
 
 ## An R Package for D. H. Lawrence's Novels
