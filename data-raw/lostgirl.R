@@ -1,9 +1,5 @@
-begin_skip <- 32
-end_skip <- 362
-book_url <- "http://www.gutenberg.org/cache/epub/23727/pg23727.txt"
+library(gutenbergr)
 
-lostgirl <- readr::read_lines(book_url, skip = begin_skip)
-lostgirl <- lostgirl[1:(length(lostgirl) - end_skip)]
-lostgirl <- lostgirl[!is.na(lostgirl)]
+lostgirl <- gutenberg_download(23727)$text
 
 devtools::use_data(lostgirl, overwrite = TRUE)
