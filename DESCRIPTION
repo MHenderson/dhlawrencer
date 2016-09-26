@@ -1,6 +1,6 @@
 Package: dhlawrencer
 Title: An R Package for D. H. Lawrence's Novels
-Version: 0.0.1
+Version: 0.1.0
 Author: Matthew Henderson
 Maintainer: Matthew Henderson <matthew.henderson@mykolab.ch>
 Description: This package provides access to the full texts of 6 of D. H.
