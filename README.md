@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/MHenderson/dhlawrencer.svg?branch=master)](https://travis-ci.org/MHenderson/dhlawrencer)
+[![DOI](https://zenodo.org/badge/57232065.svg)](https://zenodo.org/badge/latestdoi/57232065)
 
 # dhlawrencer
 
