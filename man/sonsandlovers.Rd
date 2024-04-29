@@ -4,7 +4,9 @@
 \name{sonsandlovers}
 \alias{sonsandlovers}
 \title{The text of D. H. Lawrence's novel "Sons and Lovers"}
-\format{A character vector with 18214 elements}
+\format{
+A character vector with 18214 elements
+}
 \source{
 \url{http://www.gutenberg.org/ebooks/217}
 }
@@ -18,4 +20,3 @@ Project Gutenberg and is divided into elements of up to about 70 characters
 each. (Some elements are blank.)
 }
 \keyword{datasets}
-

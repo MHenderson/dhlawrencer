@@ -23,4 +23,3 @@ lawrence_books() \%>\% group_by(book) \%>\%
      summarise(total_lines = n())
 
 }
-

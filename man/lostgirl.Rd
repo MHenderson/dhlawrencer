@@ -4,7 +4,9 @@
 \name{lostgirl}
 \alias{lostgirl}
 \title{The text of D. H. Lawrence's novel "The Lost Girl"}
-\format{A character vector with 15742 elements}
+\format{
+A character vector with 15742 elements
+}
 \source{
 \url{http://www.gutenberg.org/ebooks/23727}
 }
@@ -18,4 +20,3 @@ and is divided into elements of up to about 70 characters each.
 (Some elements are blank.)
 }
 \keyword{datasets}
-

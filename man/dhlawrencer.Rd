@@ -8,4 +8,3 @@
 \description{
 This package contains the complete text of D. H. Lawrence's novels.
 }
-
