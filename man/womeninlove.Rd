@@ -4,7 +4,9 @@
 \name{womeninlove}
 \alias{womeninlove}
 \title{The text of D. H. Lawrence's novel "Women in Love"}
-\format{A character vector with 20157 elements}
+\format{
+A character vector with 20157 elements
+}
 \source{
 \url{http://www.gutenberg.org/ebooks/4240}
 }
@@ -19,4 +21,3 @@ and is divided into elements of up to about 70 characters each.
 (Some elements are blank.)
 }
 \keyword{datasets}
-

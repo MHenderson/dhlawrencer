@@ -4,7 +4,9 @@
 \name{rainbow}
 \alias{rainbow}
 \title{The text of D. H. Lawrence's novel "The Rainbow"}
-\format{A character vector with 20962 elements}
+\format{
+A character vector with 20962 elements
+}
 \source{
 \url{http://www.gutenberg.org/ebooks/28948}
 }
@@ -18,4 +20,3 @@ and is divided into elements of up to about 70 characters each.
 (Some elements are blank.)
 }
 \keyword{datasets}
-
